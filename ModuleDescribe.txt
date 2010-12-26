@@ -17,4 +17,5 @@ This file describe the module's function in GitHub.
 
 
 5. git-multiuser(sample)       Add by JackQin
-   A good example for git study. It's has different branch and release, which developed by multiuser.
+   A good example for git study. It's has different branch and release, which deueloped by multiuser.
+   20101227 Create maven-git-plugin-with-error-dev branch, can't use mvn scm:add command.
