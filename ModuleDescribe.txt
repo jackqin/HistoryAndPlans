@@ -1,0 +1,21 @@
+This file describe the module's function in GitHub.
+
+1. HistoryAndPlans(important)   Add by JackQin, 20101226
+
+   Describe the module's function, it's convient for view to find the module.
+
+2. git-sample(sample)           Add by JackQin
+
+   First sample to study git. Use the basic commands.
+
+3. egit-sample(sample)          Add by JackQin
+
+   First sample to study egit.
+
+4. git-helloworld(sample)       Add by JackQin
+
+   Another study sample for git study. It's better than git-sample. Use defferent branch.
+
+5.  git-multiuser(sample)       Add by JackQin
+
+   A good example for git study. It's has different branch and release, which developed by multiuser.
