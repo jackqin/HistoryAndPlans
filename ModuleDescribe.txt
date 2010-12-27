@@ -19,3 +19,7 @@ This file describe the module's function in GitHub.
 5. git-multiuser(sample)       Add by JackQin
    A good example for git study. It's has different branch and release, which deueloped by multiuser.
    20101227 Create maven-git-plugin-with-error-dev branch, can't use mvn scm:add command.
+
+6. logger-slf4j-deps(common)            Add by JackQin
+   A common module which include log4j's(slf4j) dependency. The other's peoject can dependency this module when need log to save the dependency's config.
+   20101227 Create the project, release 0.9.0 version.
