@@ -23,3 +23,15 @@ This file describe the module's function in GitHub.
 6. logger-slf4j-deps(common)            Add by JackQin
    A common module which include log4j's(slf4j) dependency. The other's peoject can dependency this module when need log to save the dependency's config.
    20101227 Create the project, release 0.9.0 version.
+
+7. common-mapper(common)        Add by JackQin
+   A common module which save CURD method for the others project if it use MyBatis3 as ORM framework.
+   20101229 Create the project, release 1.0.1 version.
+            Thie module just have an interface classs, is simple, need new work in feature.
+
+8  user-register-dao(project)   Add by JackQin
+   Dao project for user register function.
+   20101229 Create the project, can use MyBatis3 to select the data.
+   
+   Plan: (1) CURD method for a table. (2) Design the tables for this module. (3)module method for the project. (4) Test Case. (5) Other works.
+
