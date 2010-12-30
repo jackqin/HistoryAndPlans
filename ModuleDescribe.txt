@@ -26,12 +26,16 @@ This file describe the module's function in GitHub.
 
 7. common-mapper(common)        Add by JackQin
    A common module which save CURD method for the others project if it use MyBatis3 as ORM framework.
-   20101229 Create the project, release 1.0.1 version.
+   20101229 Create the project, release 1.0.0 version.
             Thie module just have an interface classs, is simple, need new work in feature.
+   20101230 Release 1.1.0.  To set the return type as void for RUD operator.
+
 
 8  user-register-dao(project)   Add by JackQin
    Dao project for user register function.
    20101229 Create the project, can use MyBatis3 to select the data.
-   
+   20101231 Optimize the coding. Can CRUD for a table. Add a test case.
+         Plan: change "user" table's "status" as enum type.
+
    Plan: (1) CURD method for a table. (2) Design the tables for this module. (3)module method for the project. (4) Test Case. (5) Other works.
 
